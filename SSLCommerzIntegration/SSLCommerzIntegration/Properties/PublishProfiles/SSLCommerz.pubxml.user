@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Nerd Castle Ltd\Projects\Publish</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="About.aspx">
+      <publishTime>04/01/2020 11:24:46</publishTime>
+    </File>
+    <File Include="App_Code/SSLCommerz.cs">
+      <publishTime>04/01/2020 10:25:43</publishTime>
+    </File>
+    <File Include="bin/SSLCommerzIntegration.dll">
+      <publishTime>04/06/2020 19:36:46</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>04/01/2020 11:24:45</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>04/01/2020 10:26:09</publishTime>
+    </File>
+    <File Include="README.md">
+      <publishTime>04/01/2020 10:26:09</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.4.1.js">
+      <publishTime>04/01/2020 10:25:43</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.4.1.min.js">
+      <publishTime>04/01/2020 10:25:43</publishTime>
+    </File>
+    <File Include="Site.master">
+      <publishTime>04/01/2020 12:37:41</publishTime>
+    </File>
+    <File Include="Styles/Site.css">
+      <publishTime>04/01/2020 10:25:43</publishTime>
+    </File>
+    <File Include="Success.aspx">
+      <publishTime>04/01/2020 11:24:44</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>04/01/2020 11:16:16</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

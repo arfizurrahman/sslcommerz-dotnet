@@ -1,0 +1,6 @@
+C:\Projects\SSLCommerzIntegration\SSLCommerzIntegration\bin\SSLCommerzIntegration.dll.config
+C:\Projects\SSLCommerzIntegration\SSLCommerzIntegration\bin\SSLCommerzIntegration.dll
+C:\Projects\SSLCommerzIntegration\SSLCommerzIntegration\bin\SSLCommerzIntegration.pdb
+C:\Projects\SSLCommerzIntegration\SSLCommerzIntegration\obj\Release\SSLCommerzIntegration.dll
+C:\Projects\SSLCommerzIntegration\SSLCommerzIntegration\obj\Release\SSLCommerzIntegration.pdb
+C:\Projects\SSLCommerzIntegration\SSLCommerzIntegration\obj\Release\SSLCommerzIntegration.csprojResolveAssemblyReference.cache
